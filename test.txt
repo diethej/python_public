@@ -1,0 +1,1 @@
+[(2, 'The $12 Million Stuffed Shark: The Curious Economics of Contemporary Art', 'Don Thompson', 2010, 9780230620599), (3, "Art History's History", 'Vernon Hyde Minor', 2000, 9780130851338), (4, 'The Lives of the Artists (Updated English Edition)', 'Giorgio Vasari', 2008, 9780199537198)]
