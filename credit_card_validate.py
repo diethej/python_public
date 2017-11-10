@@ -28,7 +28,7 @@ def card_check(card):
             return("Wrong starting number!")
 
     else:
-        return("Wrong card length (16)!")
+        return("Wrong card length!")
 
 def num_digits(card):
     return[int(i) for i in card]
